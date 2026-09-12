@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 27
+  productGUID: 7d8e5d4b1b1a4a1b9b5e4d3c2a1f0e9d
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 1
+  useAnimatedAutorotation: 0
+  companyName: Store1
+  productName: Store1
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.12, g: 0.16, b: 0.2, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_ActiveColorSpace: 0
+  applicationIdentifier:
+    Standalone: com.store1.tycoon
+    Android: com.store1.tycoon
+    iPhone: com.store1.tycoon
+  bundleVersion: 1.0.0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 23
+  AndroidTargetSdkVersion: 36
+  AndroidPreferredInstallLocation: 1
+  iPhoneBuildNumber: 1
+  companyGuid: 2d4a6f8b9c0e1d3f5a7b9c1d3e5f7a9b
+  webGLInitialMemorySize: 32
+  webGLMaximumMemorySize: 2048
